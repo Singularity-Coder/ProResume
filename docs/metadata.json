@@ -1,0 +1,5 @@
+{
+  "name": "Pro Resume Builder",
+  "description": "A high-performance resume builder designed for software engineers and data analysts aiming for Tech companies. Features real-time preview, 4 standard professional templates, and ATS-friendly exports in PDF, Markdown, and Text formats.",
+  "requestFramePermissions": []
+}
