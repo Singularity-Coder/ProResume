@@ -1,2 +1,2 @@
-# ResumeBuilder
+# ProResume
 Live Resume Builder
